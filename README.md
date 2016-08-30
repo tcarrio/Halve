@@ -21,3 +21,4 @@ See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitH
 - [jQuery](http://jquery.com/)
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 - [FitVids.JS](http://fitvidsjs.com/)
+- [Entypo](http://www.entypo.com/)(planned font)
